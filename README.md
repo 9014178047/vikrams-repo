@@ -1,4 +1,4 @@
 # vikram
 This is my first repository
 <br>
-Author - vikram sangishetti
+Author - vikram sangishetti (collage)
